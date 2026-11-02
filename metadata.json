@@ -1,0 +1,6 @@
+{
+  "name": "EvaluTrack",
+  "description": "Record and save student assessment scores, track historical learning progress over time, and generate automated grade distribution and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
